@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on - Playwright (C#), WebDriverIO (JS), Selenium(C#)
+- 🔭 I’m currently working on - Playwright (C#), WebDriverIO (JS), Selenium(C#), RestSharp (C#)
 - 🌱 I’m currently learning - Role of AI in testing and vice-versa, Microsoft Copilot, Asynchronous programming
 - 👯 I’m looking to collaborate on - Optimization techniques for increasing software testing efficiency
 - 🤔 I’m looking for help with - Improving the use of design patterns in test automation solutions 
